@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anhht9824&label=Profile%20views&color=0e75b6&style=flat" alt="anhht9824" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anhht9824" alt="anhht9824" /></a> </p>
-
 - 🌱 I’m currently learning **Artificial Intelligence at FPT University**
 
 - 📫 How to reach me **anhhtse180113@fpt.edu.vn**
